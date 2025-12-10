@@ -1,4 +1,4 @@
-Old takes
+Old
 New
 secrets.yaml
 env 
@@ -11,5 +11,5 @@ Tennis Ball Obj Det.v1i.tfrecord
 Tennis-Ball-Obj-Det-1
 model
 runs
-
-
+dataset
+*.pt
